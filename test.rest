@@ -1,0 +1,9 @@
+### 
+
+POST http://localhost:7000/users/login
+Content-Type: application/json; charset=utf-8
+
+{
+ "uAcco":"1122151",
+ "uPwd":"1233451"
+}
